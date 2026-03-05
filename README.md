@@ -1,4 +1,4 @@
-# AI Care – Smart Health Monitoring System for Elderly
+# Care Bridge – Smart Health Monitoring System for Elderly
 
 ## Problem Statement
 Many elderly people live alone and caretakers cannot constantly monitor their health, medicine schedule, meals, or safety. Missing medicines or abnormal behaviour can lead to serious health risks.
