@@ -2,7 +2,7 @@
 
 **A secure, user-friendly health monitoring platform connecting caregivers and elderly loved ones.**
 
----
+# PROJECT URL: https://eshani0109.github.io/NEPTUNE-SPEAR/
 
 ## 📖 Overview
 
@@ -420,3 +420,4 @@ console.log(JSON.parse(localStorage.getItem('carebridge_meals')))
 ---
 
 **Thank you for using CARE BRIDGE! 💙**
+
